@@ -1,0 +1,8 @@
+.card-box {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+    width: 60%;
+    margin: 100px auto;
+    padding: 80px 20px;
+}
